@@ -1,1 +1,4 @@
-# za4emtietodelaesh.github.io
+# Khasanov Arthur
+# Developer
+
+# Skills: C/C++, Ruby, Docker, Github
