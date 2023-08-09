@@ -6,6 +6,7 @@ paginate: 10
 disqusShortname: "thurrsense"
 googleAnalytics: "G-12345"
 enableRobotsTXT: true
+publishDir: "docs"
 
 menu:
   main:
